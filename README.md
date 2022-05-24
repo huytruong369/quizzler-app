@@ -1,6 +1,6 @@
-#Quizzer
+# Quizzer
 
-Angela Yu course
+Angela Yu course!
 
 ## Knowledge
 -- List (dart)
@@ -12,7 +12,7 @@ Angela Yu course
 
 ## Done
 
-[!UI](\flutter_01.png)
-[!UI](\flutter_02.png)
+![UI](\flutter_01.png)
+![UI](\flutter_02.png)
 
 
